@@ -16,7 +16,11 @@ In addition to estimating these parameters, log plots are automatically displaye
 * bulk volume of water
 * water saturation.
 
+# Installation
 
+```python
+pip install petrolib
+```
 # Pay summary report
 
 
